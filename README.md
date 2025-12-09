@@ -1,16 +1,43 @@
-## Hi there 👋
+### 👋 Hey, I’m Sudarshan
 
-<!--
-**Sudarshan-k2/Sudarshan-k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Web3 & AI developer in the making — focused on building real, production-grade blockchain systems.  
+Not doing tutorials. Not copying code. My work is centered on:
 
-Here are some ideas to get you started:
+- **Smart Contracts (Solidity, Foundry, Hardhat)**
+- **DeFi Systems, Vaults & Strategy Engines**
+- **Security-first engineering (testing, fuzzing, gas optimization)**
+- **Full-stack Web3 (Next.js, React, Wagmi, Node.js)**
+- **AI integrations (LangChain, agent workflows, on-chain automation)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I’m going through a structured 5-month engineering roadmap where I build:
+
+- Audit-style smart contract micro-projects  
+- A full Yield Aggregator (startup-level architecture)  
+- An AI-powered Web3 Portfolio Copilot (LLM + on-chain data)  
+
+Everything here is built from scratch — with clean architecture, tests, and documentation.
+
+If you want to track my progress, every repo has:
+- Clear commits  
+- Tests  
+- Scripts  
+- Architecture notes  
+- Roadmaps  
+
+### 💬 Current Focus (Dec 2025 → Apr 2026)
+- Advanced Solidity & Security  
+- Foundry Testing + Fuzzing  
+- Multi-strategy Vaults  
+- LangChain Agents for Web3  
+- Full-stack Web3 development  
+
+### 💡 Interests
+- DeFi engineering  
+- AI automation  
+- Smart contract security  
+- System design  
+
+### 📫 Contact
+**Email:** sudarshanchaganti22@gmail.com  
+**Open to collaboration on Web3 + AI projects.**
+
